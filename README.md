@@ -1,2 +1,1 @@
-# 2D-collision
-elastic collision in 2D
+Nothing to see here
